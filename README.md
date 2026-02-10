@@ -22,7 +22,7 @@ When you receive a key for a guest or a weapon, place it in a currently unlocked
 - Suspects: Scarlett→ Mustard→ White→ Green→ Peacock→ Plum
 - Weapons: 🗡Knife→ 🔫Revolver→ 🧶Rope→ 🚰Lead Pipe→ 🔧Wrench→ 🕯️Candlestick
   Along your investigation, you may receive Clue cards. If you happen to gather all but one card in a single set (5 Suspect, 5 Weapon, 8 Room), you may send a check for the item involved in the murder, and place the weapon/suspect in any room, even if it’s locked. If you happen to collect all cards involved in the murder, you’ve completed your objective and caught the killer! Send the “Solve the Murder” check to broadcast your victory, and release all remaining items in your APWorld.
-# Alternate Rule: Rumors and Accusations (Deathlink) (Note, currently unimplemented)
+# Alternate Rule: Rumors and Accusations (Deathlink)
   This alternate rule involving Deathlink requires another player to verify that you do not cheat. Before beginning play, have another player look inside the envelope. Then have them write down the solution somewhere, but do not have them show it to you.
 	For every death, you may make a rumor. Simply declare a recently collected suspect, weapon, and room, and have your answer keeper tell you if any part of it is wrong. If it is, they must tell you if it’s the Suspect, Weapon, or Room. If there are multiple incorrect options, they may only tell you one.
 	Once you feel that you have sufficient evidence to prove the murder, declare that you are going to make an accusation, and declare the Suspect, Weapon, and Room, and ask the Answer Keeper if that is the solution in the envelope.
