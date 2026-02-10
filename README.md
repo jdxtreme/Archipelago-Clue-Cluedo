@@ -3,8 +3,8 @@
 To play Clue/Cluedo in your Archipelago Multiworld, you will need:
 - Archipelago Launcher (https://archipelago.gg)
 - Either:
- - A physical copy of Clue/Cluedo with traditional suspects, weapons, and rooms OR
- - Tabletop Simulator (https://store.steampowered.com/app/286160/Tabletop_Simulator) with a Clue/Cluedo Steam Workshop addon
+	- A physical copy of Clue/Cluedo with traditional suspects, weapons, and rooms OR
+	- Tabletop Simulator (https://store.steampowered.com/app/286160/Tabletop_Simulator) with a Clue/Cluedo Steam Workshop addon
 - Clue/Cluedo Archipelago APWorld
 
 Note, from here on out in this document, for consistency’s sake, the game will be referred to as Clue and use North American spelling and names.
