@@ -11,7 +11,7 @@ Note, from here on out in this document, for consistency’s sake, the game will
 # Introduction
 While enjoying a vacation with 6 of his closest known associates at his mansion in the Bahamian Archipelago, Mr. Boddy was found murdered in his home. Nobody’s got an idea of what happened, but all they know is that a strange force compelled them to. With evidence scattered across space and time, it’s up to you to find out WHO did it, with WHAT, and WHERE.
 # Setup
-- Ensure your Archipelago Launcher is up-to-date, and install the Clue: Mystery in the Archipelago APWorld as normal.
+- Ensure your Archipelago Launcher is up-to-date, and install the Clue Archipelago APWorld as normal.
 - Generate the YAML, and send it to the host, or, if you are the one hosting, place the YAML in your Players folder, then generate as normal and create the room as normal
 - Shuffle the Suspect, Weapon, and Room decks separately, and, without looking, place one of each into the solution envelope.
 - Set the Suspect tokens and Weapons off to the side or put them back into the box for now.
