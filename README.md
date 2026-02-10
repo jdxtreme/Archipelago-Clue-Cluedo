@@ -6,6 +6,7 @@ To play Clue/Cluedo in your Archipelago Multiworld, you will need:
  - A physical copy of Clue/Cluedo with traditional suspects, weapons, and rooms OR
  - Tabletop Simulator (https://store.steampowered.com/app/286160/Tabletop_Simulator) with a Clue/Cluedo Steam Workshop addon
 - Clue/Cluedo Archipelago APWorld
+
 Note, from here on out in this document, for consistency’s sake, the game will be referred to as Clue and use North American spelling and names.
 # Introduction
 While enjoying a vacation with 6 of his closest known associates at his mansion in the Bahamian Archipelago, Mr. Boddy was found murdered in his home. Nobody’s got an idea of what happened, but all they know is that a strange force compelled them to. With evidence scattered across space and time, it’s up to you to find out WHO did it, with WHAT, and WHERE.
