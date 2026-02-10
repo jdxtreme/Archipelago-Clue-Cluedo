@@ -30,5 +30,7 @@ When you receive a key for a guest or a weapon, place it in a currently unlocked
   Congratulations! You’ve cracked the case and caught the killer! Send the “Solve the Murder” check to declare your victory! Make sure to verify that all players are good for a release first.
 	
   If not, send a death for other Deathlink players, and tell the answer keeper NOT TO TELL YOU WHAT PART OF YOUR ACCUSATION IS WRONG.
+  
 © MMXXVI Vulblaze
+
 © MMXVII-MMXXVI Archipelago team
