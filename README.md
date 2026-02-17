@@ -20,7 +20,7 @@ While enjoying a vacation with 6 of his closest known associates at his mansion 
 The objective of Clue: Mystery in the Archipelago is to figure out who killed Mr. Boddy, with what weapon, and in which room. Each room is its own check, and same with meeting all suspects, and retrieving each weapon. You can score these checks by entering the same room as the suspect/weapon. However, you will notice that Tudor Manor is completely empty at the start of the game, and you cannot enter every room right away. Each room’s key, guest, and weapon is an item that needs to be found in another player’s APWorld. 
 
 When you receive a key for a guest or a weapon, place it in a currently unlocked room, or if there are no rooms unlocked, keep them off to the side until a room key is found. If you have multiple at a time, place them down in this order:
-- Suspects: Scarlett→ Mustard→ White→ Green→ Peacock→ Plum
+- Suspects: 🟥Scarlett→🟨Mustard→⬜White→🟩Green→🟦Peacock→🟪Plum
 - Weapons: 🗡Knife→ 🔫Revolver→ 🧶Rope→ 🚰Lead Pipe→ 🔧Wrench→ 🕯️Candlestick
   Along your investigation, you may receive Clue cards. If you happen to gather all but one card in a single set (5 Suspect, 5 Weapon, 8 Room), you may send a check for the item involved in the murder, and place the weapon/suspect in any room, even if it’s locked. If you happen to collect all cards involved in the murder, you’ve completed your objective and caught the killer! Send the “Solve the Murder” check to broadcast your victory, and release all remaining items in your APWorld.
 # Alternate Rule: Rumors and Accusations (Deathlink)
